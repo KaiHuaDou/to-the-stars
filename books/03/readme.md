@@ -1,4 +1,4 @@
-# 第三卷-存在悖论
+# 第三卷 存在悖论
 
 ![cover](./assets/cover.png)
 

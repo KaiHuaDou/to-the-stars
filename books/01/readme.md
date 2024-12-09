@@ -1,4 +1,4 @@
-# 第一卷-量子纠缠
+# 第一卷 量子纠缠
 
 ![cover](./assets/cover.png)
 

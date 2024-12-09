@@ -1,20 +1,20 @@
 tasks:
   - name: docs
     input:
-      name: '@mark-magic/plugin-local'
+      name: "@mark-magic/plugin-local"
       config:
         path: ./books
         ignore:
-          - '**/draft-*.md'
+          - "**/draft-*.md"
     output:
-      name: '@mark-magic/plugin-docs'
+      name: "@mark-magic/plugin-docs"
       config:
         path: ./dist/docs
         lang: zh-CN
         sitemap:
           hostname: https://tts.liuli.moe
-        name: '魔法少女小圆-飞向星空'
-        description: '在经历了几个世纪的动荡之后，一个乌托邦式的 AI— 人类政府治理着地球，预示着后稀缺社会的来临和太空殖民的新时代。一次意外的接触却让科技更先进的敌对外星种族打破了和平，这迫使魔法少女们走出幕后，拯救人类文明。在这一切之中，志筑良子，一个普通的女孩，仰望着星空，好奇着她在宇宙中的归所。'
+        name: "魔法少女小圆-飞向星空"
+        description: "在经历了几个世纪的动荡之后，一个乌托邦式的 AI— 人类政府治理着地球，预示着后稀缺社会的来临和太空殖民的新时代。一次意外的接触却让科技更先进的敌对外星种族打破了和平，这迫使魔法少女们走出幕后，拯救人类文明。在这一切之中，志筑良子，一个普通的女孩，仰望着星空，好奇着她在宇宙中的归所。"
         public: ./static
         nav:
           - text: GitHub
@@ -30,95 +30,95 @@ tasks:
         logo:
           light: /logo.png
           dark: /logoDark.png
-        gtag: 'G-F20H7RT1RM'
+        gtag: "G-F20H7RT1RM"
         giscus:
-          repo: 'liuli-moe/to-the-stars'
-          repoId: 'R_kgDOG4H10w'
-          category: 'General'
-          categoryId: 'DIC_kwDOG4H1084CQhBn'
-          mapping: 'pathname'
-          reactionsEnabled: '1'
-          inputPosition: 'bottom'
-          theme: 'preferred_color_scheme'
-          lang: 'zh-CN'
-          crossorigin: 'anonymous'
+          repo: "liuli-moe/to-the-stars"
+          repoId: "R_kgDOG4H10w"
+          category: "General"
+          categoryId: "DIC_kwDOG4H1084CQhBn"
+          mapping: "pathname"
+          reactionsEnabled: "1"
+          inputPosition: "bottom"
+          theme: "preferred_color_scheme"
+          lang: "zh-CN"
+          crossorigin: "anonymous"
         rss:
           hostname: https://tts.liuli.moe
-          copyright: 'Copyright © 2023 Hieronym, Inc. Built with feed.'
+          copyright: "Copyright © 2023 Hieronym, Inc. Built with feed."
           ignore:
-            - '**/99/**'
+            - "**/99/**"
         twitter:
-          site: 'rxliuli'
-          image: 'https://tts.liuli.moe/cover.png'
+          site: "rxliuli"
+          image: "https://tts.liuli.moe/cover.png"
         search:
           enabled: true
-  - name: 第一卷-量子纠缠
+  - name: 第一卷 量子纠缠
     input:
-      name: '@mark-magic/plugin-local'
+      name: "@mark-magic/plugin-local"
       config:
         path: ./books/01
     output:
-      name: '@mark-magic/plugin-epub'
+      name: "@mark-magic/plugin-epub"
       config:
-        path: ./dist/epub/第一卷-量子纠缠.epub
+        path: ./dist/epub/卷01 量子纠缠.epub
         id: tts-01
-        title: 第一卷-量子纠缠
+        title: 卷01 量子纠缠
         creator: Hieronym
         publisher: rxliuli
         language: zh-CN
         cover: ./books/01/assets/cover.png
-  - name: 第二卷-宇宙膨胀
+  - name: 第二卷 宇宙膨胀
     input:
-      name: '@mark-magic/plugin-local'
+      name: "@mark-magic/plugin-local"
       config:
         path: ./books/02
     output:
-      name: '@mark-magic/plugin-epub'
+      name: "@mark-magic/plugin-epub"
       config:
-        path: ./dist/epub/第二卷-宇宙膨胀.epub
+        path: ./dist/epub/卷02 宇宙膨胀.epub
         id: tts-02
-        title: 第二卷-宇宙膨胀
+        title: 卷02 宇宙膨胀
         creator: Hieronym
         publisher: rxliuli
         language: zh-CN
         cover: ./books/02/assets/cover.png
-  - name: 第三卷-存在悖论
+  - name: 第三卷 存在悖论
     input:
-      name: '@mark-magic/plugin-local'
+      name: "@mark-magic/plugin-local"
       config:
         path: ./books/03
     output:
-      name: '@mark-magic/plugin-epub'
+      name: "@mark-magic/plugin-epub"
       config:
-        path: ./dist/epub/第三卷-存在悖论.epub
+        path: ./dist/epub/卷03 存在悖论.epub
         id: tts-03
-        title: 第三卷-存在悖论
+        title: 卷03 存在悖论
         creator: Hieronym
         publisher: rxliuli
         language: zh-CN
         cover: ./books/03/assets/cover.png
-  - name: 第四卷-爱因斯坦-罗森桥
+  - name: 第四卷 爱因斯坦-罗森桥
     input:
-      name: '@mark-magic/plugin-local'
+      name: "@mark-magic/plugin-local"
       config:
         path: ./books/04
     output:
-      name: '@mark-magic/plugin-epub'
+      name: "@mark-magic/plugin-epub"
       config:
-        path: ./dist/epub/第四卷-爱因斯坦-罗森桥.epub
+        path: ./dist/epub/卷04 爱因斯坦-罗森桥.epub
         id: tts-04
-        title: 第四卷-爱因斯坦-罗森桥
+        title: 卷04 爱因斯坦-罗森桥
         creator: Hieronym
         publisher: rxliuli
         language: zh-CN
         cover: ./books/04/assets/cover.png
   - name: 番外
     input:
-      name: '@mark-magic/plugin-local'
+      name: "@mark-magic/plugin-local"
       config:
         path: ./books/99
     output:
-      name: '@mark-magic/plugin-epub'
+      name: "@mark-magic/plugin-epub"
       config:
         path: ./dist/epub/番外.epub
         id: tts-99

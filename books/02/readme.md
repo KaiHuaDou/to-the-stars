@@ -1,4 +1,4 @@
-# 第二卷-宇宙膨胀
+# 第二卷 宇宙膨胀
 
 ![cover](./assets/cover.png)
 
