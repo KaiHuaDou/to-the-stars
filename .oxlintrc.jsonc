@@ -1,0 +1,39 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["eslint", "typescript", "unicorn", "oxc", "promise"],
+  "env": {
+    "browser": true,
+    "vue": true,
+    "vitest": true,
+  },
+  "categories": {
+    "correctness": "error",
+    "pedantic": "off",
+    "perf": "warn",
+    "restriction": "warn",
+    "style": "warn",
+    "suspicious": "warn",
+  },
+  "options": {
+    "typeAware": true,
+    "typeCheck": true,
+  },
+  "rules": {
+    // 可选链（?.）是项目采用的标准 TS/JS 语法，本规则禁止它是限制性过度约束，修复只会让代码更长更难读
+    "oxc/no-optional-chaining": "off",
+    // 对象展开是标准写法；改写为 Object.assign 对可读性没有帮助
+    "oxc/no-rest-spread-properties": "off",
+    // update-source.mjs 是 Node/CLI 脚本，async/await 是其逻辑的必需语法
+    "oxc/no-async-await": "off",
+    // 模块级函数声明是惯用写法，不需要改成函数表达式
+    "eslint/func-style": "off",
+    // 相邻的 const 声明是相互独立的逻辑步骤（其间常夹有输出语句），强制合并反而降低可读性
+    "eslint/one-var": "off",
+    // 数字常量（HTTP 状态码、索引 -1、1024 等）本身自解释，提取成命名常量属过度设计
+    "eslint/no-magic-numbers": "off",
+    // CLI 脚本中的 console.time/timeEnd 用于性能计时，是刻意为之
+    "eslint/no-console": "off",
+    // 配置对象的键顺序承载意图（如 rewrites 按路径由浅入深排列），字母排序会破坏它
+    "eslint/sort-keys": "off",
+  },
+}

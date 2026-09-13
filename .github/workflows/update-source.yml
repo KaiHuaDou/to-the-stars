@@ -2,7 +2,7 @@ name: Update Source and Commit
 
 on:
   schedule:
-    - cron: "30 16 * * *" # https://crontab.guru/#30_16_*_*_*
+    - cron: '30 16 * * *' # https://crontab.guru/#30_16_*_*_*
   workflow_dispatch: {}
 
 jobs:

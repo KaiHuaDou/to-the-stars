@@ -1,11 +1,12 @@
 #!/usr/bin/env zx
 // @ts-check
 import { $, echo, fs } from 'zx'
-import got from 'got'
 import { CookieJar } from 'tough-cookie'
-import { parseDocument } from 'htmlparser2'
-import { findAll } from 'domutils'
+// @ts-expect-error - html-to-text v10 未自带类型声明
 import { convert } from 'html-to-text'
+import { findAll } from 'domutils'
+import got from 'got'
+import { parseDocument } from 'htmlparser2'
 
 const WORK_URL = 'https://archiveofourown.org/works/777002'
 const LOCAL_FILE = 'scripts/source.txt'
@@ -32,7 +33,7 @@ const http = got.extend({
 async function getDownloadLink(workUrl) {
   const html = await http.get(workUrl, { headers: { accept: 'text/html' } }).text()
   const document = parseDocument(html, { decodeEntities: false, lowerCaseTags: true })
-  const actionsEl = findAll((el) => el.name === 'ul' && /\bactions\b/.test(el.attribs['class'] ?? ''), document)
+  const actionsEl = findAll((el) => el.name === 'ul' && /\bactions\b/.test(el.attribs.class ?? ''), document)
   const linkEls = findAll((el) => el.name === 'a' && 'href' in el.attribs, actionsEl)
   for (const linkEl of linkEls) {
     const { href } = linkEl.attribs
@@ -45,17 +46,19 @@ async function getDownloadLink(workUrl) {
 }
 
 const localLastUpdatedStr = (await $`git log -1 --pretty="format:%at" -- ${LOCAL_FILE}`) || '0'
-const localLastUpdated = new Date(+localLastUpdatedStr * 1000)
+const localLastUpdated = new Date(Number(localLastUpdatedStr) * 1000)
 echo('Local version was updated at', localLastUpdated.toISOString())
 
 echo('Fetching work page for last updated time')
-console.time('Fetched');
+console.time('Fetched')
 const downloadLink = await getDownloadLink(WORK_URL)
-console.timeEnd('Fetched');
+console.timeEnd('Fetched')
 
 const updatedAtParam = downloadLink.searchParams.get('updated_at')
-if (!updatedAtParam?.match(/^\d+$/)) throw `Missing 'updated_at' in download url: ${downloadLink}`
-const remoteLastUpdated = new Date(+updatedAtParam * 1000)
+if (!updatedAtParam?.match(/^\d+$/)) {
+  throw `Missing 'updated_at' in download url: ${downloadLink}`
+}
+const remoteLastUpdated = new Date(Number(updatedAtParam) * 1000)
 echo('Remote version was updated at', remoteLastUpdated.toISOString())
 
 if (localLastUpdated >= remoteLastUpdated) {
@@ -64,9 +67,9 @@ if (localLastUpdated >= remoteLastUpdated) {
 }
 
 echo('Downloading full HTML from remote')
-console.time('Downloaded');
+console.time('Downloaded')
 const html = await http.get(downloadLink, { headers: { accept: 'text/html', referer: WORK_URL } }).text()
-console.timeEnd('Downloaded');
+console.timeEnd('Downloaded')
 
 echo('Converting HTML to plain text')
 const text = convert(html, {

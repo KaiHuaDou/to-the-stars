@@ -1,0 +1,7 @@
+minimumReleaseAge: 0
+
+allowBuilds:
+  esbuild: true
+
+overrides:
+  vite: latest

@@ -13,7 +13,7 @@ tasks:
         lang: zh-CN
         sitemap:
           hostname: https://tts.liuli.moe
-        name: '魔法少女小圆-飞向星空'
+        name: '魔法少女小圆 - 飞向星空'
         description: '在经历了几个世纪的动荡之后，一个乌托邦式的 AI— 人类政府治理着地球，预示着后稀缺社会的来临和太空殖民的新时代。一次意外的接触却让科技更先进的敌对外星种族打破了和平，这迫使魔法少女们走出幕后，拯救人类文明。在这一切之中，志筑良子，一个普通的女孩，仰望着星空，好奇着她在宇宙中的归所。'
         public: ./static
         nav:
@@ -23,7 +23,7 @@ tasks:
             items:
               - text: 原作官网
                 link: https://tts.determinismsucks.net
-              - text: Epub 电子书
+              - text: epub 电子书
                 link: https://github.com/liuli-moe/to-the-stars/releases/latest
               - text: 同人画
                 link: https://ttshieronym.tumblr.com/tagged/fanart
@@ -52,7 +52,7 @@ tasks:
           image: 'https://tts.liuli.moe/cover.png'
         search:
           enabled: true
-  - name: 第一卷-量子纠缠
+  - name: 卷 01 - 量子纠缠
     input:
       name: '@mark-magic/plugin-local'
       config:
@@ -60,14 +60,14 @@ tasks:
     output:
       name: '@mark-magic/plugin-epub'
       config:
-        path: ./dist/epub/第一卷-量子纠缠.epub
+        path: ./dist/epub/卷 01 - 量子纠缠.epub
         id: tts-01
-        title: 第一卷-量子纠缠
+        title: 卷 01 - 量子纠缠
         creator: Hieronym
         publisher: rxliuli
         language: zh-CN
         cover: ./books/01/assets/cover.png
-  - name: 第二卷-宇宙膨胀
+  - name: 卷 02 - 宇宙膨胀
     input:
       name: '@mark-magic/plugin-local'
       config:
@@ -75,14 +75,14 @@ tasks:
     output:
       name: '@mark-magic/plugin-epub'
       config:
-        path: ./dist/epub/第二卷-宇宙膨胀.epub
+        path: ./dist/epub/卷 02 - 宇宙膨胀.epub
         id: tts-02
-        title: 第二卷-宇宙膨胀
+        title: 卷 02 - 宇宙膨胀
         creator: Hieronym
         publisher: rxliuli
         language: zh-CN
         cover: ./books/02/assets/cover.png
-  - name: 第三卷-存在悖论
+  - name: 卷 03 - 存在悖论
     input:
       name: '@mark-magic/plugin-local'
       config:
@@ -90,14 +90,14 @@ tasks:
     output:
       name: '@mark-magic/plugin-epub'
       config:
-        path: ./dist/epub/第三卷-存在悖论.epub
+        path: ./dist/epub/卷 03 - 存在悖论.epub
         id: tts-03
-        title: 第三卷-存在悖论
+        title: 卷 03 - 存在悖论
         creator: Hieronym
         publisher: rxliuli
         language: zh-CN
         cover: ./books/03/assets/cover.png
-  - name: 第四卷-爱因斯坦-罗森桥
+  - name: 卷 04 - 爱因斯坦 - 罗森桥
     input:
       name: '@mark-magic/plugin-local'
       config:
@@ -105,9 +105,9 @@ tasks:
     output:
       name: '@mark-magic/plugin-epub'
       config:
-        path: ./dist/epub/第四卷-爱因斯坦-罗森桥.epub
+        path: ./dist/epub/卷 04 - 爱因斯坦 - 罗森桥.epub
         id: tts-04
-        title: 第四卷-爱因斯坦-罗森桥
+        title: 卷 04 - 爱因斯坦 - 罗森桥
         creator: Hieronym
         publisher: rxliuli
         language: zh-CN
