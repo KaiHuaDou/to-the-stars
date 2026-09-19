@@ -54,7 +54,9 @@ function aliasReadmeToIndex(sidebar: Sidebar): Sidebar {
 
 function readVolumeTitle(dir: string): string | undefined {
   const file = fileURLToPath(new URL(`../${dir}/readme.md`, import.meta.url))
-  const line = readFileSync(file, 'utf8').split('\n').find((it) => it.startsWith('# '))
+  const line = readFileSync(file, 'utf8')
+    .split('\n')
+    .find((it) => it.startsWith('# '))
   return line?.slice(2).trim()
 }
 

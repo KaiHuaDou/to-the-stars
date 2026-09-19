@@ -34,5 +34,7 @@
     "eslint/no-console": "off",
     // 配置对象的键顺序承载意图（如 rewrites 按路径由浅入深排列），字母排序会破坏它
     "eslint/sort-keys": "off",
+    // 三元表达式是惯用的条件赋值写法，强制改写为 if/else 只会增加样板代码
+    "eslint/no-ternary": "off",
   },
 }
