@@ -17,6 +17,6 @@
 
 来自多位作者接力翻译
 
-- [LidaRyen](https://bbs.yamibo.com/forum.php?mod=viewthread&tid=206113&extra=&authorid=61676): 翻译了第 1、2 卷全部和第 3 卷截至 45 章的部分
+- [LidaRyen](https://bbs.yamibo.com/forum.php?mod=viewthread&tid=206113&extra=&authorid=61676): 翻译了第 1、2 卷全部和第 3 卷截至 53 章的部分
 - [风若兮未](https://space.bilibili.com/47184018): 将上面的翻译搬运至 b 站，避免了百合会改版之后由于最长 1w 字而且删除文章格式导致的一些错误（另外，b 站也有和谐）
-- [baccano999](https://space.bilibili.com/11781867): 翻译了第 3 卷的后半部分。看起来是从第三卷第 45 章开始，翻译质量与之前相比劣化很多，存在大量事物名称不一致及其他各种问题，非常需要重新校对一遍。
+- [baccano999](https://space.bilibili.com/11781867): 翻译了第 3 卷的后半部分。看起来是从第三卷第 54 章开始，翻译质量与之前相比劣化很多，存在大量事物名称不一致及其他各种问题，非常需要重新校对一遍。
