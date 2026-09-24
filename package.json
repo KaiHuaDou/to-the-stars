@@ -13,19 +13,22 @@
     "lint:fix": "oxlint --fix",
     "lint": "oxlint",
     "preview": "vitepress preview books",
-    "update:source": "node scripts/update-source.mjs"
+    "update:source": "node scripts/update-source.ts"
   },
   "devDependencies": {
     "@ffflorian/jszip-cli": "^3.16.7",
+    "@types/node": "^26.6.2",
     "autocorrect": "^1.2.0",
     "domutils": "^4.0.2",
     "feed": "^6.0.0",
     "gh-pages": "^6.3.0",
     "got": "^16.0.0",
     "hast-util-to-html": "^9.0.5",
+    "hpagent": "^1.2.0",
     "html-to-text": "^10.0.1",
     "htmlparser2": "^12.0.0",
     "jszip": "^3.10.2",
+    "markdownlint": "^0.41.1",
     "node-html-parser": "^9.0.4",
     "oxfmt": "latest",
     "oxlint": "latest",
@@ -41,7 +44,6 @@
     "vitepress-i18n": "^1.4.0",
     "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vitepress-plugin-pagefind": "^0.4.25",
-    "vitepress-sidebar": "^1.40.0",
-    "zx": "^8.8.5"
+    "vitepress-sidebar": "^1.40.0"
   }
 }

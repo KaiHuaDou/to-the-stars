@@ -22,7 +22,7 @@
     "oxc/no-optional-chaining": "off",
     // 对象展开是标准写法；改写为 Object.assign 对可读性没有帮助
     "oxc/no-rest-spread-properties": "off",
-    // update-source.mjs 是 Node/CLI 脚本，async/await 是其逻辑的必需语法
+    // update-source.ts 是 Node/CLI 脚本，async/await 是其逻辑的必需语法
     "oxc/no-async-await": "off",
     // 模块级函数声明是惯用写法，不需要改成函数表达式
     "eslint/func-style": "off",
@@ -36,5 +36,9 @@
     "eslint/sort-keys": "off",
     // 三元表达式是惯用的条件赋值写法，强制改写为 if/else 只会增加样板代码
     "eslint/no-ternary": "off",
+    // 中英混排注释常以小写包名/标识符开头（got、hpagent 等），规则不识别 CJK 语境
+    "eslint/capitalized-comments": "off",
+    // TS 严格空检下 undefined 是可选值的标准写法，禁用无益
+    "eslint/no-undefined": "off",
   },
 }
