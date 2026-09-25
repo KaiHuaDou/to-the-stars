@@ -37,7 +37,7 @@ jobs:
       - name: Create pull request
         uses: peter-evans/create-pull-request@46cdba753c74545733b821043d64bd6925fc4da9
         with:
-          add-paths: scripts/source.md
+          add-paths: original/
           branch: update-source/patch
           delete-branch: true
           sign-commits: true

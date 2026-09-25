@@ -5,18 +5,18 @@
   "version": "1.7.5",
   "scripts": {
     "autocorrect": "autocorrect --fix",
-    "build-docs": "vitepress build books",
-    "build": "vitepress build books && node scripts/build-epub.ts && jszip-cli add dist/epub -o dist/books.zip -f",
+    "build-docs": "vitepress build .",
+    "build": "vitepress build . && node scripts/build-epub.ts && jszip-cli add dist/epub -o dist/books.zip -f",
     "deploy": "gh-pages -d ./dist/docs --dotfiles",
-    "dev": "vitepress dev books",
+    "dev": "vitepress dev .",
     "fmt": "oxfmt",
     "lint:fix": "oxlint --fix",
     "lint": "oxlint",
-    "preview": "vitepress preview books",
+    "preview": "vitepress preview .",
     "update:source": "node scripts/update-source.ts"
   },
   "devDependencies": {
-    "@ffflorian/jszip-cli": "^3.16.7",
+    "@ffflorian/jszip-cli": "^3.16.8",
     "@types/node": "^26.6.2",
     "autocorrect": "^1.2.0",
     "domutils": "^4.0.2",
@@ -41,7 +41,6 @@
     "tough-cookie": "^6.0.2",
     "unified": "^11.0.5",
     "vitepress": "next",
-    "vitepress-i18n": "^1.4.0",
     "vitepress-plugin-comment-with-giscus": "^1.1.15",
     "vitepress-plugin-pagefind": "^0.4.25",
     "vitepress-sidebar": "^1.40.0"

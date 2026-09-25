@@ -246,3 +246,9 @@ tmbootpicker.efi
 
 # Log files created by default by the nohup command
 nohup.out
+
+# WorkBuddy agent data
+.workbuddy/
+
+# VitePress build cache（srcDir 上移后的新位置）
+.vitepress/cache

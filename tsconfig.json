@@ -9,5 +9,5 @@
     "strict": true,
     "target": "ESNext"
   },
-  "include": ["scripts", "books/.vitepress"]
+  "include": ["scripts", ".vitepress"]
 }

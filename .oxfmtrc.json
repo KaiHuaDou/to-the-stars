@@ -7,5 +7,5 @@
   "arrowParens": "always",
   "endOfLine": "lf",
   "sortPackageJson": false,
-  "ignorePatterns": []
+  "ignorePatterns": ["original/**", "scripts/source.md"]
 }
