@@ -1,0 +1,3 @@
+# HSS Arminius
+
+One of Humanity's gigantic [Battlecruiser](https://tts.determinismsucks.net/wiki/Battlecruiser)'s. Flagship of the late Chair of the [General Staff](https://tts.determinismsucks.net/wiki/General_Staff), Field Marshal [Roland Erwynmark](https://tts.determinismsucks.net/wiki/Roland_Erwynmark). The ship was lost in the battle for the Wormhole Stabilizer, in the [Kepler-37 System](https://tts.determinismsucks.net/wiki/Kepler-37_System) after the [Cephalopods](https://tts.determinismsucks.net/wiki/Cephalopods), in a move surprising Human Command, massively attacked the Arminius' position in the human line.

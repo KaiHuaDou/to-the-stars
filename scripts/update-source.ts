@@ -400,7 +400,12 @@ const text = convert(cleanHtml, {
   formatters: {
     // 作者内嵌的同人图还原为 markdown 外链（src 为绝对地址，alt 带图注与画师署名）；
     // 相对地址按下载页 URL 解析兜底
-    imageLink: (elem, walk, builder) => {
+    // html-to-text 无类型声明，回调按用到的结构最小标注（elem.attribs / builder.addInline）
+    imageLink: (
+      elem: { attribs: Record<string, string | undefined> },
+      _walk: unknown,
+      builder: { addInline: (text: string) => void },
+    ) => {
       const { src } = elem.attribs
       if (!src) {
         return

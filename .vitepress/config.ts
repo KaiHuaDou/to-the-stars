@@ -364,7 +364,9 @@ const config: UserConfig = {
         ignore: ['**/99/**'],
       },
     }).load()
-    for (const it of posts.toSorted(compareUrl).slice(posts.length - 10)) {
+    // 排序副本而非原地排序：toSorted 依赖 ES2023 lib，oxlint 的类型检查不认 tsconfig 的 ESNext lib
+    const latest = [...posts].sort(compareUrl).slice(posts.length - 10)
+    for (const it of latest) {
       const html = await rssItemHtml(siteConfig, it)
       feed.addItem({
         title: it.frontmatter.title ?? findTitle(it.html ?? ''),

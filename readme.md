@@ -23,18 +23,18 @@
 目录
 
 - 卷 01 - 量子纠缠
-- 幕间物语 1: 无间迷梦
+- 幕间 1: 无间迷梦
 - 卷 02 - 宇宙膨胀
-- 幕间物语 2: 小玛德莱娜
+- 幕间 2: 小玛德莱娜
 - 卷 03 - 存在悖论
-- 幕间物语 3: 昭昭天命
+- 幕间 3: 昭昭天命
 - 卷 04 - 爱因斯坦 - 罗森桥 -- 更新中
 
 ---
 
-- 幕间物语 4: 超人
+- 幕间 4: 超人
 - 卷 05 - 暗能量
-- 幕间物语 5: 世界毁灭者
+- 幕间 5: 世界毁灭者
 - 卷 06 - 奇点
 
 ## 维护
@@ -45,6 +45,8 @@
 2. `pnpm i` 安装依赖
 3. `pnpm build` 构建文档网站与 epub 文件
 4. `pnpm deploy` 发布网站
+
+原文与原作 wiki 是自动同步的：`pnpm update:source` 更新原文（original/），`pnpm update:wiki` 更新 [原作 wiki](https://tts.determinismsucks.net/wiki/Main_Page) 的存档（original/wiki/，站点上对应 /original/wiki/）。两者都只在远端有变化时才抓取，若直连不通可带上代理，如 `HTTPS_PROXY=http://127.0.0.1:7890 pnpm update:wiki`。
 
 注意
 

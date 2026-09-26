@@ -86,6 +86,11 @@ function escapeXml(value: string): string {
     .replaceAll("'", '&apos;')
 }
 
+/** 媒体文件在 manifest 里的 id；EPUB2 的 cover meta 引用的是 id 而非文件名，两处必须一致 */
+function mediaId(name: string): string {
+  return name.replaceAll('.', '-')
+}
+
 function visit(node: MdNode, fn: (node: MdNode) => void): void {
   fn(node)
   for (const child of node.children ?? []) {
@@ -254,7 +259,14 @@ function navXhtml(meta: BookMeta, chapters: Chapter[]): string {
   const items = chapters
     .map((it) => `        <li><a href="./${escapeXml(it.id)}.xhtml">${escapeXml(it.title)}</a></li>`)
     .join('\n')
-  const beginning = chapters[1]?.id ?? chapters[0].id
+  // 正文起点取第二个章节（第一个是卷首页），卷内无章节时不写 bodymatter（当前各卷都有章节，此处只作防御）
+  const beginning = chapters[1]?.id ?? chapters[0]?.id
+  const landmarks = [
+    '        <li><a epub:type="cover" href="./cover.xhtml">cover</a></li>',
+    ...(beginning
+      ? [`        <li><a epub:type="bodymatter" href="./${escapeXml(beginning)}.xhtml">beginning</a></li>`]
+      : []),
+  ].join('\n')
   return `<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" xml:lang="${language}" lang="${language}">
@@ -270,8 +282,7 @@ ${items}
     </nav>
     <nav epub:type="landmarks" hidden="">
       <ol>
-        <li><a epub:type="cover" href="./cover.xhtml">cover</a></li>
-        <li><a epub:type="bodymatter" href="./${escapeXml(beginning)}.xhtml">beginning</a></li>
+${landmarks}
       </ol>
     </nav>
   </body>
@@ -314,7 +325,7 @@ function contentOpf(meta: BookMeta, spine: Chapter[], media: MediaFile[]): strin
     .join('\n')
   const mediaManifest = media
     .map((it) => {
-      const id = it.name.replaceAll('.', '-')
+      const id = mediaId(it.name)
       const mime = imageMimeTypes[path.extname(it.name).toLowerCase()] ?? 'application/octet-stream'
       const cover = it.name === 'cover.png' ? ' properties="cover-image"' : ''
       return `    <item id="${escapeXml(id)}" href="Media/${escapeXml(it.name)}" media-type="${mime}"${cover}/>`
@@ -330,7 +341,7 @@ function contentOpf(meta: BookMeta, spine: Chapter[], media: MediaFile[]): strin
     <dc:publisher>${escapeXml(publisher)}</dc:publisher>
     <dc:language>${escapeXml(language)}</dc:language>
     <meta property="dcterms:modified">${modified}</meta>
-    <meta name="cover" content="cover.png"/>
+    <meta name="cover" content="${escapeXml(mediaId('cover.png'))}"/>
   </metadata>
   <manifest>
     <item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
