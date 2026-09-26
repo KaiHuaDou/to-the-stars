@@ -204,6 +204,8 @@ Kyouko closed her eyes, seeming to think about it.
 
 "Alright," she said, snapping her eyes open. "The two of you can go. We'll hold private session for a little longer."
 
+![Meeting the Theological Council (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/bca986f5b135822e702d4c69ad77dab3f304c798.jpg)
+
 Asaka got up and headed for the door in the back, behind where she and Ryouko had been sitting. Ryouko followed a moment later.
 
 "Did you notice that Tanaka‐san is a telepath?" Asaka asked, as soon as the door closed. The girl watched her to gauge her reaction.

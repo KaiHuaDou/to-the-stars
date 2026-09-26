@@ -1,13 +1,5 @@
 # Chapter 65: Other Means
 
-Volume Ⅳ: Einstein‐Rosen Bridge
-
-> "In wartime, truth is so precious that she should always be attended by a bodyguard of lies."
->
-> — Winston Churchill, to Joseph Stalin
-
----
-
 > 〈In the following text, 〈〉① indicates content redacted to those without security clearance. The number indicates the degree of security clearance required to access enclosed content.〉①
 >
 > One of the first directives of the newly‐founded Governance was the redirection of resources from its now‐superfluous fighting arms towards humanity's many pressing problems—ecological, economic, social—and towards its inherited megaprojects. The military simply wasn't a priority; the EDC had eliminated all internal threats, and there were no known external ones. Governance projections consistently suggested that aside from some basic precautions, the best form of security was economic and technological growth, to prevent unrest at home and to surpass any potential alien rivals as quickly as possible.

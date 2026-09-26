@@ -112,6 +112,8 @@ Asaka gave her a dirty look.
 
 She felt something land on her head. Before she had the chance to ask, she spotted several small, insectoid robots land on Patricia's head. Feeling an itching sensation at her ankles, she looked down and spotted one circling her foot, scraping her skin with its bottom surface.
 
+![Skin Cleaning Drones (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/6e2b4004c9189f422951761f9c4f74fc833e4469.jpg)
+
 "This is rather disconcerting," she said through gritted teeth, making the effort to word her thoughts carefully.
 
 "Don't worry," Patricia said soothingly. "They're friendly, and they're not going to go under your clothes or anything like that. The military is a lot heavier on the technology than civilian life. You get used to it. Besides, I like these ones."
@@ -896,6 +898,8 @@ Whoever had designed this part of the building had earned their money. The light
 
 But the Ribbon itself, on its little pillow, looked like just a ribbon, laid out straight. Possibly the only unusual thing about it might have been how new it looked, given its age, but that was hardly the kind of thing to inspire awe.
 
+![Kneeling in front of the Ribbon (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/c5d3ee5c7f8d054c75e5940700124d306cd66241.jpg)
+
 *What are you trying to say, Asaka?* Ryouko asked, but the girl had her eyes closed, deep in what she assumed to be prayer.
 
 Ryouko closed her own eyes, wondering what this all was, waiting for the five minutes to pass.
@@ -1108,6 +1112,8 @@ Ryouko checked her internal chronometer. Literally no time had passed.
 
 Ryouko nodded mutely.
 
+![A vision with Yuma (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/7bd9035afb5df1cec9c5af22e3322b20e90d2f71.jpg)
+
 ---
 
 Clarisse van Rossum watched Ryouko get up unsteadily, supported by an arm from Asaka. From her vantage point in the corner of the room, she was relatively inconspicuous, so not many noticed her.
@@ -1139,3 +1145,5 @@ She stood there just long enough to see the Incubator Kyubey materialize briefly
 Clarisse turned and headed out through the side door. There was no more need to be here.
 
 Her soul gem pulsed on her finger. It was time to head for the Euphratic Front.
+
+![Kyubey on top of the Ribbon (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/f4fd3dea77023d0a520e7be07f8113dec7fceb1a.jpg)

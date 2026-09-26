@@ -42,6 +42,8 @@ Resting her arm on the doorjamb, she turned her head to look inside, where her f
 
 "Well, you could have at least explained better," her mother said, grabbing Ryouko by the shoulders and looking her up and down. "Do you know how worried we were? And the location tracking service was on the fritz, so we couldn't even track you."
 
+![Ryouko's family confronts her (by SilverXP)](https://img.booru.org/tothestars//images/1/365fe1653b6d3f5246664ba8202137903df9d00b.jpg)
+
 "Ah, well, about that…" Ryouko began, avoiding eye contact.
 
 "I believe I can explain that, ma'am," Kyouko said, stepping through the door, awkwardly maneuvering her spear through the doorway. For some reason, she had resummoned it, despite the obvious hazard it posed indoors. Ryouko moved aside, partly to get out of the way of the spear.
@@ -696,7 +698,7 @@ He shook his head.
 
 *Ryouko just* stared. *The girl was the same color as Akemi Homura—but her costume was a* lot *cooler.*
 
-**
+*![Cool Girl (by SilverXP)](https://img.booru.org/tothestars//images/1/a45e62263c3c75b9463d04f19eb3c10390106b70.jpg)*
 
 *The girl carried a large wooden bow.*
 

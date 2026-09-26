@@ -264,6 +264,8 @@ Wasn't it time to enjoy the fruits of their labors?
 
 ---
 
+![Homu Birthday (by SilverXP)](https://img.booru.org/tothestars//images/1/ac305fa137cef7ee17e7aa17a53e182fd9bf1ec7.jpg)
+
 Later that night, they ate their way through the cake Mami had made for the occasion. In the corner of another table, the gifts to Homura were carefully piled, a box of chocolates from Kyouko, and—embarrassingly for the two girls who had obtained them—a pair of absolutely identical next‐generation handguns, extracted nefariously from military prototype storehouses. It was made even worse by Homura admitting that she had already acquired her own, a while back.
 
 "Aren't you getting tired of it all?" Mami asked, finally daring to push the question, tongue loosened by just a bit of alcohol.

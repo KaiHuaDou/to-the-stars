@@ -190,6 +190,8 @@ Instinctively, she looked down.
 
 She found herself wearing a bright green dress, a lacy affair running all the way from her chest to her calves, where it flared out and ruffled. The sleeves were similar, and the chest was ornately decorated with various green buttons, the centerpiece of which was the shining green star soul gem attached to the base of her neck, seemingly stuck there.
 
+![Ryouko is amazed by transformation (by toxiguest)](https://img.booru.org/tothestars//images/1/ca2c9f0bc4c060f4d20d432694484a44c57d004b.png)
+
 Conscious of a slight pressure on her left hand, she raised it—and found herself looking at a crossbow nearly the length of her entire arm. But yet, despite its size and obvious weight, it was hardly any effort at all to manage. It seemed almost like an extension of herself.
 
 Specifically, it was an *arbalest,* and she would never have to load or prime it manually. Somehow she knew that.
@@ -564,6 +566,8 @@ This time, Mami watched Simona carefully, but the girl kept her head down in sil
 
 Finally, she nodded, slowly.
 
+![Simona is sad in car with Mami (by toxiguest)](https://img.booru.org/tothestars//images/1/6fb16c7f3e52b19f3c132c043b881255330aac00.png)
+
 With suspiciously good timing—Mami had ordered the transport to slow down to give them time—they were at Simona's home.
 
 "You live alone, right?" Mami asked rhetorically.
@@ -635,6 +639,8 @@ She told her personal transport to get moving, finishing her scone. She could fe
 The trick, of course, was to get into the theatre incognito.
 
 ---
+
+![Ryouko and Kyouko dive into combat (by toxiguest)](https://img.booru.org/tothestars//images/1/2229c70b9166e3400e2182606d1a6f98c1777d1a.png)
 
 There was a brief period, just a few seconds, where Ryouko had to focus, and she could feel something shifting around her—
 
@@ -727,6 +733,8 @@ Running backwards while firing, she dug deep within herself, trying to gather an
 She looked at the mob of the demons advancing on her. Where had they come from?
 
 *I didn't think I'd die so quickly,* she thought morbidly.
+
+![Ryouko mobbed by demons (by toxicguest](https://img.booru.org/tothestars//images/1/1675e4665bec4e1dbf42f157ed02b9fd5636904f.png)
 
 She raised her arbalest, gathering the energy for an explosive bolt, hoping desperately that none of them would fire on her in the seconds that would take.
 

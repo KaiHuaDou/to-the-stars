@@ -394,6 +394,8 @@ The girl took Sayaka's hand, they nodded to each other, and their former fourth 
 
 The girl turned, and started floating towards Homura.
 
+![Godoka reaching towards Homura (by SilverXP)](https://img.booru.org/tothestars//images/1/b6fb8d948f934e3fcb531c69bf7bbdabd6c2f4ad.jpg)
+
 "You're a goddess, aren't you?" Homura said. "Answer me!"
 
 "I'm glad you did," the apparition said, approaching closer. "I can't make up for your sacrifice today, but I can give you a gift. I can return your memories."
@@ -528,6 +530,8 @@ It was a special weekend. The Mitakihara Four were hosting representatives from 
 
 Without the Southern Group jamming up the works, the area had become a much friendlier place.
 
+![Founding of the MSY (by SilverXP)](https://img.booru.org/tothestars//images/1/62a69c10e0f787241bbeb4ae35f0d336404f4c93.jpg)
+
 The five girls, a hodgepodge of apparent ages, clothing choices, and hairstyles—one even still wearing glasses—watched with interest, seated with the other three on the cramped floor around a coffee table, looking up at the wall. They held plates with chocolate cake and crackers, as well as cups full of tea. Homura was gesturing at a presentation shone onto the surface by a brand‐new holoprojector. From a perch on a nearby counter, Kyubey watched passively, implicitly blessing the proceedings; he had already done so explicitly earlier.
 
 "Money, that is," Homura said, making a hand gesture. The wall shifted to show a wide variety of denominations of Yen. One of the girls laughed half‐heartedly.
@@ -647,6 +651,8 @@ So it was pretty much their fault. It was still a shame, though. Maybe someday i
 The climax of the movie was approaching.
 
 ---
+
+![Alien attack (by SilverXP)](https://img.booru.org/tothestars//images/1/0733e4bdb75fb6cee6fe0e42494d2643794e9243.jpg)
 
 It began with stock footage familiar to every currently living human. Footage from twenty years ago, Aurora colony, the first Human world to be attacked.
 

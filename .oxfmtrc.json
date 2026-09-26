@@ -6,6 +6,5 @@
   "trailingComma": "all",
   "arrowParens": "always",
   "endOfLine": "lf",
-  "sortPackageJson": false,
   "ignorePatterns": ["original/**", "scripts/source.md"]
 }

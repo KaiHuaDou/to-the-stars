@@ -40,5 +40,13 @@
     "eslint/capitalized-comments": "off",
     // TS 严格空检下 undefined 是可选值的标准写法，禁用无益
     "eslint/no-undefined": "off",
+    // 脚本里的循环串行 IO 是刻意选择（产物/日志顺序确定），无需逐处豁免
+    "eslint/no-await-in-loop": "off",
+    // 惯用用法，不应抑制
+    "eslint/no-plusplus": "off",
+    // 转换脚本中的行扫描状态机与多阶段流水线天然超 10 条语句，拆分反而割裂上下文
+    "eslint/max-statements": "off",
+    // 对 filter 等新建数组原地排序无副作用，toSorted 需 tsconfig lib 升到 es2023
+    "unicorn/no-array-sort": "off",
   },
 }

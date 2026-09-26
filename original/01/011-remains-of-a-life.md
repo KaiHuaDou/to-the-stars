@@ -150,6 +150,8 @@ They sat in their four‐person vehicle, her mother seemingly determined to chat
 
 That bothered her, for some reason she couldn't quite place.
 
+![Family Dinner (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/b741be6e731089eeb3d460faedc078662eae57e3.jpg)
+
 Given the circumstances, Ryouko was given free rein on what to order, so she ordered the cream stew she was inanely fond of, plus some fried foods they normally never got—primarily because her grandfather didn't like fried foods. Only after she ordered did it finally occur to her that, yes, he too would be leaving in six more days, and she was being illogically selfish. She tried to apologize, but he dismissed it, pointing out that she was, after all, the younger.
 
 It was unusual, eating in the middle of the night, but it meant little as long as your stomach could fit it. Any excess energy was mysteriously squirreled away by your implants, or so they were told in school. Plus, Ryouko had a feeling her implants needed more energy than usual.
@@ -316,6 +318,8 @@ The projectiles, extremely advanced, had limited onboard guidance, but couldn't 
 
 Her parents clapped and her grandfather raised an eyebrow, looking impressed, but Asaka's expression was neutral.
 
+![Ryouko firing a Gun (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/53dd20ecf91c77fb0abfb618485a9b2331e7e8d8.jpg)
+
 "Sorry to tell you," she said, "but that's considered terrible, unfortunately. Most of that accuracy is your enhancements. Let me show you."
 
 At which point Asaka took the gun, adroitly reloaded the ammunition, and notched a humiliating:
@@ -407,6 +411,8 @@ Ryouko made a half‐embarrassed gesture.
 "I see," Risa responded.
 
 The match ended when the telekinetic managed to blast one of the chains into the arm of the other girl, grabbing the spear‐wielding arm. The spear‐wielder quickly abolished her own chain, but the time wasted was enough for the other girl to gather a massive push, slamming her into the far wall along with a large collection of her own chains and a rather audible crunching sound. Before she could recover, the other girl launched herself through the air and completed a decapitation with both swords. Well, an imaginary double decapitation.
+
+![Sparring Match (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/03e308ede0b8bfb93764a137d878cbfa464ab118.jpg)
 
 The forcefields shut down, both girls falling to the ground. The swordswoman immediately grabbed one shoulder, while the other forced herself into a sitting position with obvious pain. Others rushed forward to help, and there was a brief moment where the two girls held their newly retrieved soul gems up in a gesture of—respect? Camaraderie?
 
@@ -541,6 +547,8 @@ She picked it up in two hands, feeling its heft as she had the day before, tryin
 She felt the slight sense of recognition from the weapon, acknowledging its Human military user. Her grandfather had used one yesterday only because Asaka had granted temporary permission. Otherwise, it refused to fire outside of the hands of military personnel or drones. It even had limited intelligence, to prevent misfires. That was why there was no risk in simply routing it through the delivery tubes.
 
 "This picture of you in pajamas, wearing a serious face, and pointing a gun at a vase, is going to make great material to show my friends," her mother said, appearing behind her unexpectedly.
+
+![Vase Under Threat (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/ee5cb86d1a1944e0e6521db4b3d09ae305311a7b.jpg)
 
 "Ah!" she vocalized, quickly dropping her pose and turning to face her mother. She fiddled with the gun in her hands, not really sure what else to do with it. She wondered if she looked embarrassed.
 

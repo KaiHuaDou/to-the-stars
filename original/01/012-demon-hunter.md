@@ -166,6 +166,8 @@ The girl turned and began to walk, gesturing at Ryouko to follow.
 
 They maneuvered around the other girls and thorny rose vines that populated the Cult center's rear garden. Ryouko looked around, head tilting. The building looked so different here that it might as well have been a different building, she thought. It didn't help that the scent of roses prickled constantly at her nose. So far, her enhanced smell had been nothing but bothersome, though the manuals swore it would be useful in combat.
 
+![In the Rose Garden with Kyouko (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/e07d82d2157da1191b6a5234a9f992e7c2498ffb.jpg)
+
 She found herself standing next to Kyouko, who was standing with her arms on her hips, looking over the rest of them. She seemed aggrieved at something, even as Ryouko mused that the pose made her look remarkably matronly. Perhaps it was something about her body language.
 
 "Asaka applied to join Mami's command staff," Kyouko explained, gnawing at her—synthesized—beef jerky, without even bothering to wait for a conversation to start. "She'll be leaving soon. She sends her regards, and apologizes that she's leaving you early."
@@ -425,6 +427,8 @@ For an insane moment, Ryouko mused that she had no idea how the girl was even st
 "My fault," the girl said, when they got back. "They snuck up on me where I was camping. I *know* they can move up inside buildings, but I wasn't paying attention, I was just so into the killing—oh God, my shrink is going to give me hell for this. I thought I was *over* doing stuff like that."
 
 The girl was hugging herself, shivering slightly, while the others soothed her and applied grief cubes to her angrily dark gem.
+
+![Magical girl without an arm, and Ryouko (by Arusuko @arusuko)](https://img.booru.org/tothestars//images/1/55fcc4845bd09a107ab75aa5acb643a641098e69.jpg)
 
 But Ryouko wasn't hearing any of it. Instead she was standing off to the side, staring at a building. She would have been bent over, trying not to vomit, except that now, in the future, that kind of reaction was automatically suppressed. So instead, she stared.
 

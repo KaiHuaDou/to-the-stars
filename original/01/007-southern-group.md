@@ -140,6 +140,8 @@ This tunnel was one of many leading into and out of the building. The undergroun
 
 She inspected the artwork on the wall, hand on chin. It was "amateur", but that did not mean the art was bad. Some of it was amazingly good. It had to do with how old the girl in question was, and how much they had practiced. Scattered among the drawings one could see many excellent drawings: Incubators, soul gems, magical girls in battle, *Field Marshal* Mami smiling and looking out over the bridge of her flagship—the *HSS Georgy Konstantinovich Zhukov*—and Kyouko standing in front of a congregation giving one of her sermons, with a lot more light and halos than she thought she had.
 
+![Wall of Cult art (by SilverXP)](https://img.booru.org/tothestars//images/1/18b074773c723c882bdcb2eea6d031606ad3702a.png)
+
 Kyouko focused her attention on one in particular. In well‐rendered watercolor, it depicted Homura with her white angel wings furled around her, trying to kneel, but being refused.
 
 The one doing the refusing was the Goddess, of course, in all the vague detail that they knew about her. As was traditional, the face was frustratingly blank. In twenty years of ribbon‐induced visions, no one had ever managed to see her face. The only one who could fill in the blank was Homura, the one whose return they awaited.
@@ -644,6 +646,8 @@ One of the benefits of living in a city was that, even without magical girl eyes
 
 The three of them stopped almost simultaneously, Mami and Kyouko on the roof of a department store, Homura hovering overhead.
 
+![Mami, Moemura, and Kyouko (by SilverXP)](https://img.booru.org/tothestars//images/1/4d3c69486f4e43a522e5297023bd9c700ab1631f.png)
+
 *Do you feel that?* Mami thought, and you could hear the frown in her voice.
 
 *Yes,* Kyouko thought.
@@ -730,6 +734,10 @@ By the time she and Mami landed, arrows, spears, and bullets had cleared out a w
 
 Kyouko turned to look—and froze.
 
+![Yuma among demons (by SilverXP)](https://img.booru.org/tothestars//images/1/885e9c4394581747fb313a3568d2cf19cacbe5d3.png)
+
+![Yuma smiling (by SilverXP)](https://img.booru.org/tothestars//images/1/bb4a4544ad8cd514d7efabe7270dae39b0810b69.png)
+
 Chitose Yuma was clearly no longer in the business of trying to stay alive. She flailed wildly within a cluster of demons with her mace, pouring out shockwaves at an irrational pace. The demons died, or were thrown back, but there were too many. Yuma was absorbing beam after beam, taking critical blows, sustainable only because she was expending her magic to keep herself constantly healing.
 
 Her face was lined with tears, her eyes were red and insane, and she was *smiling.*
@@ -805,6 +813,8 @@ Others, of the more conspiratorial type, would say instead that she *ruled.*
 Kyouko checked her internal chronometer.
 
 It was time to visit Chitose Yuma.
+
+![Yuma as Governance: Magical Girls](https://img.booru.org/tothestars//images/1/a9639dd54a5f6b80878c8fd3968bfe61ecdf0822.png)
 
 ## Chapter End Notes
 

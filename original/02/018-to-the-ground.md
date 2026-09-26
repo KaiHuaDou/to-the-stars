@@ -1,13 +1,5 @@
 # Chapter 18: To the Ground
 
-Volume Ⅱ: Inflationary Expansion
-
-> "The universe is so vast and ageless that the life of one man can only be measured by the size of his sacrifice."
->
-> — Vivian Rosewarne, RAF pilot (killed during the Battle of Dunkirk)
-
----
-
 > The extended aftermath of the Unification Wars brought major changes in the organization of the rapidly demobilizing military, brought about by a combination of changing circumstances and new technology.
 >
 > Firstly, new direct‐to‐cortex training techniques greatly shortened the amount of time necessary to train all classes of military personnel, including officers, making it possible for lower‐ranked personnel to obtain basic training for higher positions with relatively little effort. Secondly, the steeply rising education level of the overall populace nearly eliminated the poorly‐educated soldiers that had traditionally comprised the lower ranks of the military, further contributing to a glut of qualified promotion candidates. Finally, the end of conscription and the return of the volunteer military eliminated a plausible reason for holding some candidates back.

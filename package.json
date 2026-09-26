@@ -1,8 +1,8 @@
 {
   "name": "to-the-stars",
+  "version": "1.7.5",
   "private": true,
   "type": "module",
-  "version": "1.7.5",
   "scripts": {
     "autocorrect": "autocorrect --fix",
     "build-docs": "vitepress build .",
@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@ffflorian/jszip-cli": "^3.16.8",
-    "@types/node": "^26.6.2",
+    "@types/node": "^26.6.3",
     "autocorrect": "^1.2.0",
     "domutils": "^4.0.2",
     "feed": "^6.0.0",

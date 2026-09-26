@@ -1,13 +1,5 @@
 # Chapter 34: The Bonds that Make Us
 
-Volume Ⅲ: Ontological Paradox
-
-> "The energy of the universe is constant; the entropy of the Universe tends to a maximum."
->
-> — Rudolf Clausius, Statements of the First and Second Law of Thermodynamics
-
----
-
 > Among the more eccentric aspects of the magical girl system, the phenomenon of color is among the most easily noticed by the general public, and among the most mysterious. Put simply, besides standard black or white patterning, magical girl costumes are nearly all monochromatic, usually reflecting the hue of the user's soul gem, which often, but not always, seems to reflect the personality of the magical girl involved.
 >
 > Many theories have been advanced to explain this curious phenomenon, both inside and outside the MSY, and none have been even close to proven. Contrary to popular belief, color is only poorly determined by a mage's "favorite" color. It also doesn't seem to be affected by other magical girls in the area at time of contract—examples of both rainbow and single‐color teams exist in the historical record. The correlation between color and type of magical power is weak, and not any stronger than would be expected based on the connection of personality to both color and magical girl. Finally, explanations involving Incubator intent run up immediately against the Incubator refusal to comment. Nor do so‐called polychromats provide any real insight, distributed seemingly randomly among the magical girl population.

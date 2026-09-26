@@ -200,6 +200,8 @@ It was a relay, one teleporter stretching her range to the utmost of her ability
 
 And finally, the wasteland that was their destination.
 
+![Kyouko, Mami and Homura look out over desolate darmland (by SilverXP)](https://img.booru.org/tothestars//images/1/93e2a8967b610b3d68b3ed0efa131a2b7b88eb27.jpg)
+
 It used to be farmland. Now it was scorched everywhere with wide swaths of uptorn earth. The alien armor that they had been hearing about tore across the landscape, sloped devices with bulbous guns, scurrying along on roach‐like legs.
 
 They could hear telepathic screams.
@@ -461,6 +463,10 @@ The movie accentuated the point by showing a shot of space, of magical girls try
 The movie returned to the ground, where, as the humans tried to flee, Kyouko instead stood still and watched, aghast, as Homura instead flew straight up, hand reaching for the sky.
 
 The massive particle beam coming downward turned the sky white with light, bearing down upon them, and Kyouko knew that none of them would escape, that it didn't make sense to run, that the only hope was that Homura was not absolutely insane to fly straight up into it. She watched, dropping her spear.
+
+![Kyouko looking up (by SilverXP)](https://img.booru.org/tothestars//images/1/4b3b0b6680ac7e1d2a88e1b2146163e5c0a82c60.jpeg)
+
+![Homura casts Reflect (by SilverXP)](https://img.booru.org/tothestars//images/1/4399f65297d503b98f7f7b6f92136518fc969433.jpeg)
 
 It was a moment that would become legendary, searing itself into the collective Human memory, recorded on a thousand holocams, and the eyes of everyone who dared to look up.
 

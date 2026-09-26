@@ -62,7 +62,8 @@ function readVolumeTitle(root: string, dir: string): string | undefined {
 function restoreSidebarItems(items: SidebarItem[], root: string): SidebarItem[] {
   return items.flatMap((it) => {
     if (!it.items) {
-      if (it.link?.endsWith('/readme')) {
+      // scan 根的 readme 链接相对 scanStartPath（'readme'），其余 readme 链接以 /readme 结尾
+      if (it.link === 'readme' || it.link?.endsWith('/readme')) {
         return []
       }
       return [it]
@@ -260,7 +261,7 @@ const config: UserConfig = {
   },
   // 多 locale 时 vitepress 自动渲染语言切换器；locale 级配置深度叠加在根配置之上，
   // nav/logo/中文侧边栏自动继承。root = 中文译文（books/），/original/ = 英文原文；
-  // 英文侧 UI 文案即默认主题的英文默认值，只需替换侧边栏；
+  // 英文侧 UI 文案即默认主题的英文默认值，只需设置标题与侧边栏；
   // 中文侧 UI 文案与 vitepress 官方 zh 文档的翻译一致
   locales: {
     root: {
@@ -288,6 +289,8 @@ const config: UserConfig = {
     original: {
       label: 'English',
       lang: 'en-US',
+      // /original/ 页面导航栏标题显示英文书名，点击由默认主题导航到 locale 根 /original/
+      title: 'To the Stars',
       themeConfig: { sidebar: enSidebar },
     },
   },
@@ -362,7 +365,6 @@ const config: UserConfig = {
       },
     }).load()
     for (const it of posts.toSorted(compareUrl).slice(posts.length - 10)) {
-      // eslint-disable-next-line no-await-in-loop -- 条目最多 10 个，串行生成足够且更直观
       const html = await rssItemHtml(siteConfig, it)
       feed.addItem({
         title: it.frontmatter.title ?? findTitle(it.html ?? ''),

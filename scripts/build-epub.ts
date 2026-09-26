@@ -129,7 +129,6 @@ function sortChapterFiles(files: string[]): string[] {
   const home = files.find((it) => it.toLowerCase() === 'readme.md')
   const chapters = files
     .filter((it) => it !== home)
-    // eslint-disable-next-line unicorn/no-array-sort -- filter 结果是新建数组，原地排序无副作用，且 tsconfig lib 未到 es2023
     .sort(compareString)
   return home ? [home, ...chapters] : chapters
 }
@@ -412,7 +411,6 @@ async function buildBook(meta: BookMeta): Promise<void> {
 async function main(): Promise<void> {
   await mkdir(outDir, { recursive: true })
   for (const meta of books) {
-    // eslint-disable-next-line no-await-in-loop -- 仅 5 卷，顺序构建以保证日志与产物顺序确定
     await buildBook(meta)
   }
 }

@@ -1,15 +1,5 @@
 # Chapter 1: A Wish
 
-> Volume Ⅰ: Quantum Entanglement
->
-> "God does not play dice with the universe."
->
-> — Albert Einstein (as most frequently quoted)
->
-> ---
-
----
-
 > While basic instruction on the consequences and responsibilities of wish‐making is, from an ethical standpoint, mandatory, this requirement must be balanced against the greater good of Human society. Instructors are forbidden from divulging more about the Incubator system than is present in the course curriculum; this restriction lasts until pupils are past recruitment age, typically considered as ending at twenty. While concern for your pupils is laudable, silence is your responsibility as a citizen, and as a member of Human society. Violation of this policy will be met with immediate loss of position followed by possible punitive measures…
 >
 > — "*Universal Guidelines for Middle School Instructors (12th revision),*" excerpt.
@@ -491,6 +481,8 @@ The girl smiled mischievously, tilting her head back.
 Mami did so, and when she turned back, she found Kyouko sitting on the bed facing her.
 
 "Well, no need to be shy," Kyouko said, patting a spot next to her on the bed.
+
+![Kyouko sitting next to Mami inside Cult compound (by ChrisTy)](https://img.booru.org/tothestars//images/1/58ffff18b8f6c3050e06862c3bab395f1fb1e5f6.png)
 
 Mami sat. There wasn't really anywhere else to sit, except an uncomfortable‐looking wooden chair.
 
@@ -1116,6 +1108,8 @@ It was a figure familiar to them from a dozen movies, a hundred propaganda event
 
 "Now *that* was a close call," the field marshal said, turning back to talk to them. "It's not safe to wander this far into the industrial districts, girls. But now's not the time. Let's see about getting you to safety."
 
+![Ryouko and Simona react to Mami's (Morning) rescue (by ChrisTy)](https://img.booru.org/tothestars//images/1/d5b7dc738fc8d60ca3e650f9228dbb15e678b444.png)
+
 ---
 
 〈*Emergency Mode off.*〉
@@ -1315,6 +1309,8 @@ That girl stared at the luminescent green soul gem in her hands wondrously, head
 The spear‐wielding girl closed her eyes and clasped her hands in benediction.
 
 "May your soul gem burn bright and long," Sakura Kyouko said, "and the Goddess save you from despair."
+
+![Ryouko in front of Kyubey (by ChrisTy)](https://img.booru.org/tothestars//images/1/5fc9aba54e8f5362d873c3b7476e6143b6004895.png)
 
 ## Chapter End Notes
 

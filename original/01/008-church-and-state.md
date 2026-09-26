@@ -150,6 +150,8 @@ She looked back down, at the double doors at the other end of the rotunda. She s
 
 —and stopped mid‐step, as the old‐fashioned wooden doors swung outward to meet her.
 
+![Yuma greets Kyouko (by SilverXP @SLVR79)](https://img.booru.org/tothestars//images/1/915a92775bfc38bcc7b6debbe2c75cc17bb0ab5f.jpg)
+
 "Onee‐chan!" a girl's voice trilled, and in a flash the green apparition slammed into her, knocking the breath out of her chest, and promptly threatened to crumple her ribcage with the force of a hug.
 
 As a point of fact, the girl could, like all of them, easily crumple the ribcage of an ordinary human. She wasn't applying nearly *that* much force, but Kyouko found herself suddenly contemplating the possibility.
@@ -223,6 +225,8 @@ The desk was enormous, with numerous holographic displays hovering above it in m
 Around the room hung giant paintings of pastoral scenes, full of grass and rice paddies and other such things. Stacked in the various corners were yet more plushies, though in this case of animals more prosaic than Incubators. Some were enormous, dwarfing the others. Others had been carefully repaired, having survived the numerous generations spanning from her childhood until now.
 
 Yuma climbed onto her giant chair, dwarfed by the chair, the desk, and the wide picture window behind her, which currently overlooked a Mitakihara City gray and gloomy with rain. Her head barely reached over the desk surface, and it was intuitively obvious that her legs must be dangling.
+
+![Yuma greets Kyouko (by SilverXP @SLVR79)](https://img.booru.org/tothestars//images/1/bd79be2b3170d9ea6d7a56d967eb165403469711.jpg)
 
 "So what percentage of your consciousness is here today, Yuma‐chan?" Kyouko asked.
 
@@ -616,6 +620,8 @@ There was a reason so many of the demon hunting teams ended up cohabitating and 
 
 Finally, Kyouko reached the door labeled "Patricia von Rohr". It slid open at her approach.
 
+![Yuma greets Kyouko (by SilverXP @SLVR79)](https://img.booru.org/tothestars//images/1/277f2131bdc0dead833ae8cc627639d5e19a4baa.jpg)
+
 She stepped inside, telling the door to slide closed behind her.
 
 Kyouko peered around the room, taking in Asaka sitting on the bed and Patricia seated at her desk. Patricia's room was a bit of what you'd expect: holographic schematics and science posters on the wall, desk strewn with bits and pieces of equipment, a small antigrav sphere hovering over its display stand on the shelf full of true rarities: paper books.
@@ -899,6 +905,8 @@ Kyouko paused.
 She smiled her most winning smile, and received a wave of applause.
 
 ---
+
+![Yuma greets Kyouko (by SilverXP @SLVR79)](https://img.booru.org/tothestars//images/1/2073c3ac60533bb429d48a7ebd50f9e826436a66.jpg)
 
 ---
 
